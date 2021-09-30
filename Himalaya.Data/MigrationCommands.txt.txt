@@ -1,0 +1,3 @@
+dotnet ef migrations add initial -s Himalaya.Api -p Himalaya.Data
+
+dotnet ef database update -s Himalaya.Api -p Himalaya.Data

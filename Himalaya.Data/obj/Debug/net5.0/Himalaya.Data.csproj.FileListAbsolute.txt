@@ -1,0 +1,15 @@
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\bin\Debug\net5.0\Himalaya.Data.deps.json
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\bin\Debug\net5.0\Himalaya.Data.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\bin\Debug\net5.0\ref\Himalaya.Data.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\bin\Debug\net5.0\Himalaya.Data.pdb
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\bin\Debug\net5.0\Himalaya.Contract.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\bin\Debug\net5.0\Himalaya.Contract.pdb
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.csprojAssemblyReference.cache
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.AssemblyInfoInputs.cache
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.AssemblyInfo.cs
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.csproj.CoreCompileInputs.cache
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.csproj.CopyComplete
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\ref\Himalaya.Data.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Data\obj\Debug\net5.0\Himalaya.Data.pdb

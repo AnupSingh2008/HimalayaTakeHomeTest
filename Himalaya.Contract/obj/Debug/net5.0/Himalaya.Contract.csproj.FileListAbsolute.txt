@@ -1,0 +1,12 @@
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\bin\Debug\net5.0\Himalaya.Contract.deps.json
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\bin\Debug\net5.0\Himalaya.Contract.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\bin\Debug\net5.0\ref\Himalaya.Contract.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\bin\Debug\net5.0\Himalaya.Contract.pdb
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\Himalaya.Contract.csprojAssemblyReference.cache
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\Himalaya.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\Himalaya.Contract.AssemblyInfoInputs.cache
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\Himalaya.Contract.AssemblyInfo.cs
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\Himalaya.Contract.csproj.CoreCompileInputs.cache
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\Himalaya.Contract.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\ref\Himalaya.Contract.dll
+C:\Users\anup4\OneDrive\Documents\HimalayaTakeHomeTest\Himalaya.Contract\obj\Debug\net5.0\Himalaya.Contract.pdb

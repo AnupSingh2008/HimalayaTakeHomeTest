@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Integration.Tests\\Himalaya.Integration.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Contract\\Himalaya.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Contract\\Himalaya.Contract.csproj",
+        "projectName": "Himalaya.Contract",
+        "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Contract\\Himalaya.Contract.csproj",
+        "packagesPath": "C:\\Users\\anup4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anup4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\Himalaya.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\Himalaya.Data.csproj",
+        "projectName": "Himalaya.Data",
+        "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\Himalaya.Data.csproj",
+        "packagesPath": "C:\\Users\\anup4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anup4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Contract\\Himalaya.Contract.csproj": {
+                "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Contract\\Himalaya.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Integration.Tests\\Himalaya.Integration.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Integration.Tests\\Himalaya.Integration.Tests.csproj",
+        "projectName": "Himalaya.Integration.Tests",
+        "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Integration.Tests\\Himalaya.Integration.Tests.csproj",
+        "packagesPath": "C:\\Users\\anup4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Integration.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anup4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\Himalaya.Data.csproj": {
+                "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\Himalaya.Data.csproj"
+              },
+              "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\HimalayTestHelper\\Himalaya.TestHelper.csproj": {
+                "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\HimalayTestHelper\\Himalaya.TestHelper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\HimalayTestHelper\\Himalaya.TestHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\HimalayTestHelper\\Himalaya.TestHelper.csproj",
+        "projectName": "Himalaya.TestHelper",
+        "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\HimalayTestHelper\\Himalaya.TestHelper.csproj",
+        "packagesPath": "C:\\Users\\anup4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\HimalayTestHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anup4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\Himalaya.Data.csproj": {
+                "projectPath": "C:\\Users\\anup4\\OneDrive\\Documents\\HimalayaTakeHomeTest\\Himalaya.Data\\Himalaya.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.207\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
